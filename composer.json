@@ -12,8 +12,15 @@
             "role": "Developer"
         }
     ],
-    "require": {
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/darrencocco/Behat"
+        }      
+    ],
+    "require": {        
         "php": ">=5.4.4",
+        "behat/behat": "dev-filter-extensions",
         "behat/mink": "~1.7",
         "behat/mink-extension": "~2.2",
         "behat/mink-goutte-driver": "~1.2",
