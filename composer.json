@@ -1,5 +1,5 @@
 {
-    "name": "mymoodlehq/behat-extension",
+    "name": "moodlehq/behat-extension",
     "description": "Moodle behat extension",
     "keywords": ["Moodle", "BDD", "Behat"],
     "type": "library",
