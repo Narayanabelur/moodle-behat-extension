@@ -15,7 +15,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Narayanabelur/moodle-behat-extension"
+            "url": "https://github.com/Narayanabelur/behat-filter-extension"
         }      
     ],
     "require": {        
