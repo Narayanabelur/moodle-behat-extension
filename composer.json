@@ -15,12 +15,12 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/darrencocco/Behat"
+            "url": "https://github.com/Narayanabelur/moodle-behat-extension"
         }      
     ],
     "require": {        
         "php": ">=5.4.4",
-        "behat/behat": "dev-filter-extensions",
+        "behat/behat": "dev-master",
         "behat/mink": "~1.7",
         "behat/mink-extension": "~2.2",
         "behat/mink-goutte-driver": "~1.2",
